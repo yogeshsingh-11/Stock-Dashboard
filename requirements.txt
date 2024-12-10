@@ -1,5 +1,7 @@
 plotly
 yfinance
+pytz
+ta
 numpy
 pandas
 streamlit
