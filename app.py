@@ -1,3 +1,13 @@
+import streamlit as st
+import plotly.express as px
+import plotly.graph_objects as go
+import pandas as pd
+import yfinance as yf
+from datetime import datetime, timedelta
+import pytz
+import ta
+
+import dashboard
 ## Creating the Dashboard App layout
 
 
